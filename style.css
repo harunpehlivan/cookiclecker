@@ -1,0 +1,117 @@
+#cooki_butt{
+width: 150px;
+height: 150px;
+position: absolute ;
+left: 30px ;
+top: 90px ;
+}
+#milk{
+  width: 50px;
+  height: 50px;
+  position: absolute ;
+  left:170px ;
+  top: 10px ;
+}
+#milk_nomber{
+  position: absolute ;
+  left:220px ;
+  top: 30px ;
+}
+#cooki_pcupg{
+position: absolute ;
+right: 20px ;
+top: 120px ;
+}
+#cps_upg{
+position: absolute ;
+right: 20px ;
+top: 210px ;
+}
+#cpc_label{
+position: absolute ;
+right: 20px ;
+top: 60px ;
+}
+#cpc_lvllabel{
+position: absolute ;
+right: 20px ;
+top: 90px ;
+}
+#cps_label{
+position: absolute ;
+right: 20px ;
+top: 150px ;
+}
+#cps_lvllabel{
+position: absolute ;
+right: 20px ;
+top: 180px ;
+}
+#cooki_nomber{
+position: absolute ;
+left: 70px ;
+top: 10px ;
+}
+#total_nomber{
+position: absolute ;
+left: 70px ;
+top: 30px ;
+}
+#a1{
+width: 50px;
+height: 50px;
+}
+#a2{
+width: 50px;
+height: 50px;
+}
+#a3{
+width: 50px;
+height: 50px;
+}
+#a4{
+width: 50px;
+height: 50px;
+}
+#a5{
+width: 50px;
+height: 50px;
+}
+#a6{
+width: 50px;
+height: 50px;
+}
+#a7{
+width: 50px;
+height: 50px;
+}
+#a8{
+width: 50px;
+height: 50px;
+}
+#a9{
+width: 50px;
+height: 50px;
+}
+#a10{
+width: 50px;
+height: 50px;
+}
+#AchievmentTablet{
+position: absolute ;
+left: 120px;
+bottom: 60px ;
+height: 200px ;
+background-color: lightblue;
+}
+
+#AchievmentButt{
+  position: absolute ;
+  bottom: 10px ;
+  left: 120px ;
+}
+#XButton{
+  position: absolute ;
+  bottom: 10px ;
+  left: 250px ;
+}

@@ -1,0 +1,83 @@
+-- Achievments --
+- Bakegenning = 10 cookies baked
+- Baked Goods = 150 Cookies Baked
+- Autobaketic = Have 1 CPS Bot
+- MoreAutomatic = Have 25 CPS Bot
+- ThatsATonOfCookies = Have 50 CPC
+- Milky Huh? = Obtain 1 Milk Of Any Type
+- Choco Meltdown = Obtain 1 Choco Milk
+- The Fused One And The Legendary One = Obtain 1 Golden Milk (5%)
+- Choco Stream = Obtain 5 Choco Milk
+- Do You Feel Lucky = Obtain 3 G Milk 6 Choco Milk And 10 Milk Of Any Type
+- Cowlimitation Milky Blitz = Obtain 10 All Kinds Of Milk
+- The Milky Way Galaxy = Obtain The Secret Galaxy Milk
+- Milk Tsunami = Obtain 100 Milk Of Any Kinds
+- Milk Cool = Obtain 15s G MIlk
+-- Shadow Achievments --
+- Milk Apocylapse = Obtain 500 Milk Of Any Kinds
+-- Banned Shadow Achievment --
+- Milk Earth = Obtain 100000000000000000000000000 Tons Of Milk or 1000000000000000000000000000000000000000000000000000000000000000 Milk Of Any Kinds
+- The True Milky Way Galaxy = Obtain 100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 Milk Of Any Kinds
+- The Milky Universe = Obatain 10e+Infinite
+-- End --
+- The Luckiest Person Ever = Obtain 30 G Milk
+- The True Lucky Person = Obtain 3 G Milk In A Row
+- The Ever Achievment = Aqquire Every Single Normal Achievment
+- No Way Possible = Aqquire Every Single Achievment (Including Shadow Ones(But Not The Banned Ones))
+- Unachieved = You Havent Achieved This Achievment
+-- End --
+
+-- Milk --
+-- Vanilla Milk --
+80% Chance
+Luck = 60%
+Unlucky = 100%
+1 Milk
+No Special Effect
+-- End --
+-- Choco Milk --
+15% Chance
+Lucky = 25%
+Unlucky = 0%
+1-2 Milk
+3 Second Of Duo Cooki Production
+-- End --
+-- Golden Milk --
+4.99% Chance
+Lucky = 14.95 %
+Unlucky = 0%
+2 Milk
+30 Second Of Tri Cooki Production
+-- End --
+-- The Milk Of The Galaxy Of Everything Of Luck --
+0.01%
+Lucky = 0.05% Chance
+Unlucky = -99999999999999999999999999999% Chance
+CODE ACCESSESSABLE ONLY
+Infinite Seconds Of Lucky Event
+INFINITE Cooki
+Infinite Seconds Of Cracy Cooki Production
+-- End
+-- End --
+
+-- Events --
+-- Lucky --
+More Higher Rate Of Getting Better Milk
+Cooki Production Increased By 50%
+Cookies Needed To Get Milk Decreased By -25%(Price = 375)
+-- End --
+-- Unlucky --
+Only Normal Vanilla Milk
+Cooki Production Decreased By 50%
+Can Lose Cooki During Event (25 - 50) Each ( 17 - 19 ) Seconds
+-- End --
+-- Duo/Tri/Quad/Crazy Cooki Production --
+Cooki Production Set To 200%(Duo) 300%(Tri) 400%(Quad) 10000%(Crazy)
+-- End --
+-- End --
+
+-- Rules --
+You Get Milk Every 500 Cookies Look At Milk To Know The Milks
+You Get A Random Event Every 750 Cookies
+-- End --
+Event Cooki = Once You Have 750 E Cooki -> Brodcast The Event -> 0 Event Cooki
